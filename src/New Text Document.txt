@@ -1,0 +1,105 @@
+1= //print hello world
+2= //To add mul sub and div two numbers
+3= // To check no is positive or negative
+4= // Take three no from user and print greatest
+5= //Take no from one to seven and print day name
+6= // To check whether entered alphabet is a vowel or consonant
+7= //To check whether it is a leap year or not
+8= //To find average
+9= //Take no and check whether no is multiplier of 2 3 or 6
+10= //Print name till I become 10 giving initial value zero
+11= //Repeat till memorise 
+12= //Print consecutive integers till x
+13= //Write mathematical expression for a table
+14= //print x till y
+15= //print reverse series
+16= //To print table of n till x
+17= //Print all odd no between two no
+18= //Write all third alternate no b/w 2 no
+19= //Write program to print factorial sum avg from 0 to entered number
+20= //To create an array
+21= //Make odd position twice in array
+22= //Take a no from user which is the length of array then print array of that length
+    // and its sum multiplication and average
+23= // To find maximum and minimum in an array
+24= //Find element in array
+25= //Add number in an array at start
+26= //Add number in an array at last
+27= //Find number of times a number is repeated in an array
+28= //Take two arrays of characters and display one by one {“a” , “c” , “e”} , {“b” , “d” , “f”}output-(a,b,c,d,e,f)
+29= //Take two arrays of int and insert the sum of consecutive element into another array  like {1,2,3} {4,8,6} :-     output- {5,7,9}
+30= //Take an array and display elements from both end like {1,2,3,4,5,6}:-   output- {1,6,2,5,3,4}
+31= //Display from towards both end like {1,2,3,4,5}:-   output- {3,2,4,1,5}
+32= //Take Two array {1,2,3,4} {6,7,8,9} and multiply them like {1*9, 2*8, 3*7, 6*4}
+33= //Take a number 9834 and display one by one like {9,8,3,4}
+34= //Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+35= //Write a program that prompts the user to input an integer and then outputs the number with the digits reversed.
+      For example, if the input is 12345, the output should be 54321.
+36= //Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+37= //Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime number. 
+38= //Write a program to find the factorial value of any number entered through the keyboard. 
+39= //Write a program to calculate HCF of Two given number
+40= //Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
+41= //Write a program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered.
+42= //Write a program to calculate the sum of following series where n is input by user. 
+      1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n
+43= //Write a program to print following :
+i)
+**********
+**********
+**********
+**********
+ii)
+*
+**
+***
+****
+*****
+iii)
+        *
+      **
+    ***
+  ****
+*****
+iv)
+        *
+      ***
+    *****
+  *******
+*********
+v)
+        1
+      222
+    33333
+  4444444
+555555555
+vi)
+        1
+      212
+    32123
+  4321234
+543212345
+
+44= //Write a program that generates a random number and asks the user to guess what the number is. If the user's guess is higher than the random number, the program should display "Too high, try again." If the user's guess is lower than the random number, the program should display "Too low, try again." 
+      The program should use a loop that repeats until the user correctly guesses the random number.
+45= //Write a do-while loop that asks the user to enter two numbers. The numbers should be added and the sum displayed. The loop should ask the user whether he or she wishes to perform the operation again.
+      If so, the loop should repeat; otherwise it should terminate.
+46= //Write a program to calculate the sum of the numbers occurring in the multiplication table of 8.
+
+47= //Write an infinite loop.
+      Ainifinte loop never ends. Condition is always true.
+48= //A policeman see a thief running, soon policeman starts running to catch that thief. When policemen started running already thief was 400 steps ahead of him. In the time thief takes 1 step, policeman takes 2 steps. Calculate after how many steps police will be able to catch the thief.
+49= //A person wants to visit laddakh twice a year but after taking parents permission but he also have a mind to visit at least once even after his parents reject.
+50= //Take the input from user that how many balls(n) have to be thrown in an over. A ball is said to be valid if the speed of the ball is less than 150kmph. We have to count only valid balls in an over. For n balls take the input from the user for the speed of the ball. Calculate in how many balls an over will be completed. 
+51= //Take the input from the user that will indicate the number of operation user wants to take. Then take the number from user and the type of operation he/she wants. Valid operations are 1. Add 2. Subtract 3. Multiply 4.divide 5. Mod. 6. Percent.
+52=//Design a very smart command based calculator that will take following arguments 
+     Start > it will start the calculator 
+     Stop > it will stop the calculator 
+     add num1 num2  > will add the numbers 
+     sub num1 num2 > will subtract the numbers 
+     mul num1 num2 > will multiply the numbers 
+     div num1 num2 > will divide the numbers 
+     mod num1 num2 > will get the modular division of num1 num2
+     per num1 num2 will get the percentage
+
+

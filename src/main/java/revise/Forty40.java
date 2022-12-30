@@ -14,27 +14,25 @@ public class Forty40 {
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Enter a number- ");
 			String y = sc.nextLine();
-			
+
 			System.out.println("Type 00 if you want to check number of positive negative or zero entered");
-			//String y=sc.nextLine();
-			int x=sc.nextInt();
-			
+			// String y=sc.nextLine();
+			int x = sc.nextInt();
+
 			if (x > 0) {
 				pos++;
-				
+
 			} else if (x < 0) {
 				neg++;
-				
-			}
-			else if (x==00) {
-				System.out.println("positive number="+pos);
-				System.out.println("Negative number="+neg);
-				System.out.println("Zero="+zer);
+
+			} else if (x == 00) {
+				System.out.println("positive number=" + pos);
+				System.out.println("Negative number=" + neg);
+				System.out.println("Zero=" + zer);
 				break;
-			}
-			else {
+			} else {
 				zer++;
-				
+
 			}
 		}
 

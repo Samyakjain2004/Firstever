@@ -13,7 +13,7 @@ public class TwentyThree {
 // created array
 		int[] arr = new int[l];
 		int maxi = arr[0];
-		int mini = arr[0];
+		
 		for (int i = 0; i < arr.length; i++) {
 			System.out.println("arr[" + i + "]");
 			int x = sc.nextInt();
@@ -32,6 +32,7 @@ public class TwentyThree {
 			}
 		}
 		// for array min
+		int mini = arr[0];
 		for (int i = 0; i < arr.length; i++) {
 			if (arr[i]<=mini) {
 				mini=arr[i];

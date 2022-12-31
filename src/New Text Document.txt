@@ -87,7 +87,7 @@ vi)
 46= //Write a program to calculate the sum of the numbers occurring in the multiplication table of 8.
 
 47= //Write an infinite loop.
-      Ainifinte loop never ends. Condition is always true.
+      An ifinte loop never ends. Condition is always true.
 48= //A policeman see a thief running, soon policeman starts running to catch that thief. When policemen started running already thief was 400 steps ahead of him. In the time thief takes 1 step, policeman takes 2 steps. Calculate after how many steps police will be able to catch the thief.
 49= //A person wants to visit laddakh twice a year but after taking parents permission but he also have a mind to visit at least once even after his parents reject.
 50= //Take the input from user that how many balls(n) have to be thrown in an over. A ball is said to be valid if the speed of the ball is less than 150kmph. We have to count only valid balls in an over. For n balls take the input from the user for the speed of the ball. Calculate in how many balls an over will be completed. 

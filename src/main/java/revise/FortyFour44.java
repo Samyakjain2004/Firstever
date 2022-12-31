@@ -9,7 +9,7 @@ public class FortyFour44 {
 	public static void main(String[] args) {
 		Random ran=new Random();
 		int x=ran.nextInt(100);
-		//int x = 100;
+		
 		Scanner sc = new Scanner(System.in);
 		for (int i = 0; i >= 0; i++) {
 			System.out.println("Enter number you feel closest- ");

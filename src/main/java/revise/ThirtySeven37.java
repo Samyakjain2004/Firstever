@@ -20,13 +20,13 @@ public class ThirtySeven37 {
 		else if (x > 2) {
 			for (int i = 2; i < x; i++) {
 				if (x % i != 0) {
-					System.out.println("Prime number");
+					
 
 				} else {
 					System.out.println("Composite number");
 					break;
 				}
-
+				System.out.println("Prime number");
 			}
 		}
 

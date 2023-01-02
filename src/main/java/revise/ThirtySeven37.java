@@ -10,25 +10,30 @@ public class ThirtySeven37 {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a positive integer");
 		int x = sc.nextInt();
+		String y;
 		if (x == 2) {
 			System.out.println("Prime number");
 		} else if (x == 1 | x == 0) {
 			System.out.println("Neither a prime nor a composite number");
 
 		}
+String isPrime(x);
+System.out.println(isPrime);
+		
 
-		else if (x > 2) {
+	}
+	public static int checkPrime(y) {
+	 if (x > 2) {
 			for (int i = 2; i < x; i++) {
 				if (x % i != 0) {
 					
 
 				} else {
-					System.out.println("Composite number");
-					break;
+					return composite;
+					
 				}
-				System.out.println("Prime number");
+				return prime;
 			}
 		}
-
 	}
 }
